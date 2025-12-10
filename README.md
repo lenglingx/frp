@@ -21,7 +21,7 @@ MuYun-FRP：https://github.com/ximatai/MuYunFRP
 
 ### 网络图
 
-![FRP](https://github.com/user-attachments/assets/f4817a58-d26d-425f-af48-abf2ec077de9)
+![FRP](./docs/网络图.png)
 
 ### 使用
 
@@ -190,10 +190,15 @@ mvn clean package
 
 ### 使用效果截图
 
-![FRP](https://github.com/user-attachments/assets/f4817a58-d26d-425f-af48-abf2ec077de9)
+![FRP](./docs/代理tcp的效果.png)
 
-![FRP](https://github.com/user-attachments/assets/f4817a58-d26d-425f-af48-abf2ec077de9)
+![FRP](./docs/代理http的效果.png)
 
-![FRP](https://github.com/user-attachments/assets/f4817a58-d26d-425f-af48-abf2ec077de9)
+![FRP](./docs/运行frp-server.png)
 
-![FRP](https://github.com/user-attachments/assets/f4817a58-d26d-425f-af48-abf2ec077de9)
+![FRP](./docs/运行frp-agent.png)
+
+![FRP](./docs/运行frp-agent1.png)
+
+
+
