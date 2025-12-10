@@ -1,0 +1,10 @@
+type: tcp
+tunnelName: ssh-tunnel
+
+frpTunnel:
+  host: 127.0.0.1
+  port: 8023
+
+proxy:
+  host: 192.168.6.203
+  port: 22

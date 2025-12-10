@@ -1,0 +1,18 @@
+management:
+  port: 8089
+
+tunnels:
+  - name: ssh-tunnel
+    type: tcp
+    openPort: 8022
+    agentPort: 8023
+
+  - name: mysql-tunnel
+    type: tcp
+    openPort: 8306
+    agentPort: 8307
+
+  - name: web-tunnel
+    type: http
+    openPort: 8080
+    agentPort: 8081
