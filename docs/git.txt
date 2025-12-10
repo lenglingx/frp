@@ -1,0 +1,26 @@
+
+git init
+git add .
+git commit -m "First commit!"
+git status
+
+
+推送到github
+git remote add originGithub https://github.com/lenglingx/frp.git
+git push -u originGithub master
+
+
+推送到gitee
+git remote add origin https://gitee.com/lenglingx/frp.git
+git push -u origin master
+
+
+>git remote -v
+E:\otherproj\frp>git remote -v
+origin  https://gitee.com/lenglingx/frp.git (fetch)
+origin  https://gitee.com/lenglingx/frp.git (push)
+originGithub    https://github.com/lenglingx/frp.git (fetch)
+originGithub    https://github.com/lenglingx/frp.git (push)
+
+
+
